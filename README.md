@@ -12,4 +12,12 @@ This project utilizes OpenCV and the CVZone library to perform hand tracking usi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abdelrhmanidk/Hand-Tracking.git
+   git clone https://github.com/abdelrhmanidk/Virtual-Drag-and-Drop
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd Virtual-Drag-and-Drop
+
+3. **Install the required dependencies:**
+   ```bash
+   pip install opencv-python cvzone numpy
